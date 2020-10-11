@@ -11,13 +11,13 @@ public class TestCase2 {
 		String expected_title = "Yahoo.com";
 		String actual_title = "Gmail.com";
 		
-/*		if(expected_title.equals(actual_title)) {
+		if(expected_title.equals(actual_title)) {
 			System.out.println("Test Case Passed");
 		}else {
 			System.out.println("Test Case Failed");
-		}*/
+		}
 		
-		Assert.assertEquals(actual_title, expected_title);
+		/* Assert.assertEquals(actual_title, expected_title); */
 		
 		
 	}
