@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="testcases.TestCase1" duration-ms="45" started-at="2020-10-11T00:51:39 EDT" finished-at="2020-10-11T00:51:39 EDT">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="45" started-at="2020-10-11T00:51:39 EDT" finished-at="2020-10-11T00:51:39 EDT">
+      <class name="testcases.TestCase1">
+        <test-method status="PASS" signature="createDBConn()[pri:0, instance:testcases.TestCase1@3c0ecd4b]" name="createDBConn" is-config="true" duration-ms="5" started-at="2020-10-11T00:51:39 EDT" finished-at="2020-10-11T00:51:39 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createDBConn -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:testcases.TestCase1@3c0ecd4b]" name="launchBrowser" is-config="true" duration-ms="0" started-at="2020-10-11T00:51:39 EDT" finished-at="2020-10-11T00:51:39 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="doUserReg()[pri:1, instance:testcases.TestCase1@3c0ecd4b]" name="doUserReg" duration-ms="1" started-at="2020-10-11T00:51:39 EDT" finished-at="2020-10-11T00:51:39 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doUserReg -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testcases.TestCase1@3c0ecd4b]" name="closeBrowser" is-config="true" duration-ms="1" started-at="2020-10-11T00:51:39 EDT" finished-at="2020-10-11T00:51:39 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="closeDBConn()[pri:0, instance:testcases.TestCase1@3c0ecd4b]" name="closeDBConn" is-config="true" duration-ms="0" started-at="2020-10-11T00:51:39 EDT" finished-at="2020-10-11T00:51:39 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDBConn -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:testcases.TestCase1@3c0ecd4b]" name="launchBrowser" is-config="true" duration-ms="0" started-at="2020-10-11T00:51:39 EDT" finished-at="2020-10-11T00:51:39 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="doLogin()[pri:2, instance:testcases.TestCase1@3c0ecd4b]" name="doLogin" duration-ms="1" started-at="2020-10-11T00:51:39 EDT" finished-at="2020-10-11T00:51:39 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+        <test-method status="PASS" signature="createDBConn()[pri:0, instance:testcases.TestCase1@3c0ecd4b]" name="createDBConn" is-config="true" duration-ms="0" started-at="2020-10-11T00:51:39 EDT" finished-at="2020-10-11T00:51:39 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createDBConn -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testcases.TestCase1@3c0ecd4b]" name="closeBrowser" is-config="true" duration-ms="0" started-at="2020-10-11T00:51:39 EDT" finished-at="2020-10-11T00:51:39 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="closeDBConn()[pri:0, instance:testcases.TestCase1@3c0ecd4b]" name="closeDBConn" is-config="true" duration-ms="0" started-at="2020-10-11T00:51:39 EDT" finished-at="2020-10-11T00:51:39 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDBConn -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:testcases.TestCase1@3c0ecd4b]" name="launchBrowser" is-config="true" duration-ms="0" started-at="2020-10-11T00:51:39 EDT" finished-at="2020-10-11T00:51:39 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="checkPage()[pri:3, instance:testcases.TestCase1@3c0ecd4b]" name="checkPage" duration-ms="1" started-at="2020-10-11T00:51:39 EDT" finished-at="2020-10-11T00:51:39 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkPage -->
+        <test-method status="PASS" signature="createDBConn()[pri:0, instance:testcases.TestCase1@3c0ecd4b]" name="createDBConn" is-config="true" duration-ms="0" started-at="2020-10-11T00:51:39 EDT" finished-at="2020-10-11T00:51:39 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createDBConn -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testcases.TestCase1@3c0ecd4b]" name="closeBrowser" is-config="true" duration-ms="1" started-at="2020-10-11T00:51:39 EDT" finished-at="2020-10-11T00:51:39 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="closeDBConn()[pri:0, instance:testcases.TestCase1@3c0ecd4b]" name="closeDBConn" is-config="true" duration-ms="0" started-at="2020-10-11T00:51:39 EDT" finished-at="2020-10-11T00:51:39 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDBConn -->
+      </class> <!-- testcases.TestCase1 -->
+    </test> <!-- Command line test -->
+  </suite> <!-- testcases.TestCase1 -->
+</testng-results>
