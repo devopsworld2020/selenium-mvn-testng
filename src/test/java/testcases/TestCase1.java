@@ -41,5 +41,9 @@ public class TestCase1 {
 		System.out.println("Check for the page opening");
 	}	
 
-
+	@Test(priority=3)
+	public void checkPage( ) {
+		System.out.println("Check for the page opening");
+	}
+	
 }
